@@ -1,0 +1,32 @@
+{
+  "name": "immoscout-api-v2",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "adamvr-superagent-oauth": "^0.2.4",
+    "checksum": "^0.1.1",
+    "oauth": "^0.9.14",
+    "q": "^1.4.1",
+    "superagent": "^2.2.0",
+    "underscore": "^1.8.3",
+    "url-join": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softmantk/immoscout-api.git"
+  },
+  "keywords": [
+    "immoscout"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softmantk/immoscout-api/issues"
+  },
+  "homepage": "https://github.com/softmantk/immoscout-api#readme",
+  "description": ""
+}

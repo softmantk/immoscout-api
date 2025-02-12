@@ -1,0 +1,6 @@
+node_modules
+creds
+*.json
+*.csv
+*.tgz
+t.js
